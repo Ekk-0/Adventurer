@@ -1,0 +1,13 @@
+/Users/eavosloo/Projects/Adventurer/Adventurer/bin/Debug/netcoreapp3.1/Adventurer.deps.json
+/Users/eavosloo/Projects/Adventurer/Adventurer/bin/Debug/netcoreapp3.1/Adventurer.runtimeconfig.json
+/Users/eavosloo/Projects/Adventurer/Adventurer/bin/Debug/netcoreapp3.1/Adventurer.runtimeconfig.dev.json
+/Users/eavosloo/Projects/Adventurer/Adventurer/bin/Debug/netcoreapp3.1/Adventurer.dll
+/Users/eavosloo/Projects/Adventurer/Adventurer/bin/Debug/netcoreapp3.1/Adventurer.pdb
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.csproj.AssemblyReference.cache
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.AssemblyInfoInputs.cache
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.AssemblyInfo.cs
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.csproj.CoreCompileInputs.cache
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.dll
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.pdb
+/Users/eavosloo/Projects/Adventurer/Adventurer/obj/Debug/netcoreapp3.1/Adventurer.genruntimeconfig.cache
